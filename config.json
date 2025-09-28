@@ -1,5 +1,6 @@
 {
   "name": "happy-project",
-  "version": "1.0.0",
-  "description": "A simple project"
+  "version": "1.0.1",
+  "description": "A simple project",
+  "author": "Developer"
 }
