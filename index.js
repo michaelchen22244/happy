@@ -1,2 +1,6 @@
-console.log('Hello World');
-console.log('Welcome!');
+function greet() {
+  console.log('Hello World');
+  console.log('Welcome!');
+}
+
+greet();
